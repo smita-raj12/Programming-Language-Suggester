@@ -2,12 +2,11 @@ $(document).ready(function() {
   $("#pform").submit(function(event) {
     $("#pform").hide();
     const nameInput = $("#name").val();
-    const ageInput = parseInt($("#Age").val());
     const qulInput = $("#qul").val();
-    
+    const ageInput = $("#Age").val();
     const operator = $("input:radio[name=operator]:checked").val();
-    if(nameInput===1 && ageInput >= 18 && qulInput===1){
       if (operator === "hot") {
+        console.log("hot")
         $("#python").show()
       }else if (operator === "less") {
         $("#JavaScript").show()
@@ -18,9 +17,9 @@ $(document).ready(function() {
       }else if(operator === "timedue"){
         $("#Swift").show()
       }
-    }else {
-      $("#age").show()
-    }
+      if(nameInput>=0 && ageInput >= 15 && qulInput >=0){
+        $("Age").show()
+      }
       event.preventDefault();
   });
 });
