@@ -5,7 +5,6 @@ $(document).ready(function() {
     const qulInput = $("#qul").val();
     const ageInput = parseInt($("#Age").val());
     const operator = $("input:radio[name=operator]:checked").val();
-     
       if (operator === "hot") {
         $("#python").show()
       }else if (operator === "less") {
