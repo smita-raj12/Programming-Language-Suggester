@@ -46,11 +46,11 @@
 
 **Known bugs**
 
-   
+   Trying to fix age condition to check these information.   
 
 **License information with a copyright and date:**
 
-    [MIT](https://choosealicense.com/)
+    [MIT]_{https://choosealicense.com/}_
 
 **Contact information:**
    
