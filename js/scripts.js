@@ -3,10 +3,10 @@ $(document).ready(function() {
     $("#pform").hide();
     const nameInput = $("#name").val();
     const qulInput = $("#qul").val();
-    const ageInput = $("#Age").val();
+    const ageInput = parseInt($("#Age").val());
     const operator = $("input:radio[name=operator]:checked").val();
+     
       if (operator === "hot") {
-        console.log("hot")
         $("#python").show()
       }else if (operator === "less") {
         $("#JavaScript").show()
@@ -16,9 +16,6 @@ $(document).ready(function() {
         $("#React").show()
       }else if(operator === "timedue"){
         $("#Swift").show()
-      }
-      if(nameInput>=0 && ageInput >= 15 && qulInput >=0){
-        $("Age").show()
       }
       event.preventDefault();
   });
