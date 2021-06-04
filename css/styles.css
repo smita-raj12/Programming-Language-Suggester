@@ -13,3 +13,20 @@
 #Swift{
   display: none;
 }
+#age{
+  display: none;
+}
+body {
+  background-color: rgb(190, 165, 133);
+}
+h1{
+  color: rgb(240, 108, 68);
+  text-align: center;
+}
+.form-row{
+  width: 80%;
+  border: solid black;
+  border-width: 1px;
+  margin-top: 10 px;
+  padding-top: 10px;
+}
