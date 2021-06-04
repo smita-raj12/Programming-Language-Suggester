@@ -20,13 +20,20 @@ body {
   background-color: rgb(190, 165, 133);
 }
 h1{
-  color: rgb(240, 108, 68);
+  color: rgb(216, 84, 106);
   text-align: center;
 }
-.form-row{
-  width: 80%;
+.class-radio{
+  box-sizing: border-box;
+  width: 40%;
   border: solid black;
-  border-width: 1px;
+  border-width: 6px;
   margin-top: 10 px;
-  padding-top: 10px;
+  padding-top: 3px;
+  float: center;
+}
+.p-class{
+  font-size: larger;
+  width: auto;
+  font-style: oblique;
 }
