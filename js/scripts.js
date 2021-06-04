@@ -16,6 +16,25 @@ $(document).ready(function() {
       }else if(operator === "timedue"){
         $("#Swift").show()
       }
-      event.preventDefault();
+      const veryhot = $("select#vhot").val();
+
+      $("#check").submit(function(event) {
+        $("#check").hide();
+        if(veryhot == 'vhot'){
+          alert('you can select python')
+        }
+    });
+    event.preventDefault();
   });
+  
+  
+      $("#check").submit(function(event) {
+        $("#check").hide();
+        const Iname = $("#uname")
+        const veryhot = $("select#vhot").val();
+        if(veryhot === 'vhot' && Iname === 'uname' ){
+          $("#vhotmsg").show()
+        }
+    });
 });
+
