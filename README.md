@@ -23,6 +23,8 @@
     * HTML and CSS.
 
     * jQuery and Javascript
+
+    * Bootstrap class to disign pages
     
 **Longer description of the project as needed:**
 
@@ -46,11 +48,14 @@
 
 **Known bugs**
 
-   Trying to fix age condition to check these information.   
+   After reviewing course details user has to select 
+   some question option, depending on there thoughts
+   application has to suggest one Programming language
+   that CheckBox function is not working     
 
 **License information with a copyright and date:**
 
-    [MIT]_{https://choosealicense.com/}_
+    [MIT](https://choosealicense.com/)
 
 **Contact information:**
    
