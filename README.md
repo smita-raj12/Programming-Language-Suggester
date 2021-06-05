@@ -8,7 +8,7 @@
 
 **Brief description of the project:**
   
-    * This project contains Programming Languages.
+    * This project contains Programming Language suggestion.
 
     * It contains Brief description of programmig languages.
 
@@ -22,9 +22,9 @@
 
     * HTML and CSS.
 
-    * jQuery and Javascript
+    * jQuery and Javascript.
 
-    * Bootstrap class to disign pages
+    * Bootstrap class to disign pages.
     
 **Longer description of the project as needed:**
 
@@ -49,9 +49,9 @@
 **Known bugs**
 
    After reviewing course details user has to select 
-   some question option, depending on there thoughts
+   some question option, depending on their thoughts
    application has to suggest one Programming language
-   that CheckBox function is not working     
+   that DropdownList function is not working.     
 
 **License information with a copyright and date:**
 
