@@ -1,62 +1,54 @@
-**Application Name:**
+## Application Name:
 
-   _Program_
+Program
 
-**Name of contributors:**
+## Name of contributors:
 
-   _Smita_   
+Smita   
 
-**Brief description of the project:**
-  
-    * This project contains Programming Language suggestion.
+## Brief description of the project:
 
-    * It contains Brief description of programmig languages.
+This project contains Programming Language suggestions.
 
-    * User can choose there language.
+It contains a brief description of programming languages.
 
+Users can choose their language.
+
+## Technologies used:
+
+HTML and CSS.
+
+jQuery and Javascript.
+
+Bootstrap class to design pages.
     
+## Longer description of the project as needed:
 
-**Technologies used:**
+This application allows users to select a programming language 
+based on their requirements. Here we worked on BootsTrap class
+for webpage styling, jQuery and Javascript for functioning.
 
-    * Text Editor: visual stodio.
+## Complete setup/installation instructions:
 
-    * HTML and CSS.
+[link](https://github.com/smita-raj12/program)   
 
-    * jQuery and Javascript.
+Clone this repository to your desktop.
 
-    * Bootstrap class to disign pages.
-    
-**Longer description of the project as needed:**
+Navigate to the directory.
 
-    This application allows users to select programming language 
-    based on their requirements. Here we worked on BootsTrap class
-    for webpage styling, jQuery and Javascript for functioning.
+Open program/index.html.
 
-**Complete setup/installation instructions:**
+## Known bugs
 
-    * visual studio:[click](https://code.visualstudio.com)
-      download and setup.
+After reviewing course details user has to select 
+some question option, depending on their thoughts
+application has to suggest one Programming language
+that DropdownList will be fixed as part of the next commit.     
 
-    * [link](https://github.com/smita-raj12/program)   
+## cense information with a copyright and date:
 
-    * Clone this repository to your desktop.
+ [MIT](https://choosealicense.com/)
 
-    * Navigate to the directory.
-
-    * Open program/index.html.
-
-
-**Known bugs**
-
-   After reviewing course details user has to select 
-   some question option, depending on their thoughts
-   application has to suggest one Programming language
-   that DropdownList function is not working.     
-
-**License information with a copyright and date:**
-
-    [MIT](https://choosealicense.com/)
-
-**Contact information:**
+## Contact information:
    
    *EmailId:smita.raj12@gmail.com
