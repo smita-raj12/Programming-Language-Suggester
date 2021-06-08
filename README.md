@@ -8,42 +8,42 @@ Smita
 
 ## Brief description of the project:
 
-This project contains Programming Language suggestions.
+1. This project contains Programming Language suggestions.
 
-It contains a brief description of programming languages.
+2. It contains a brief description of programming languages.
 
-Users can choose their language.
+3. Users can choose their language.
 
 ## Technologies used:
 
-HTML and CSS.
+1. HTML and CSS.
 
-jQuery and Javascript.
+2. jQuery and Javascript.
 
-Bootstrap.
+3. Bootstrap.
     
 ## Longer description of the project as needed:
 
-This application allows users to select a programming language 
+`This application allows users to select a programming language 
 based on their requirements. Here we worked on BootsTrap class
-for webpage styling, jQuery and Javascript for functioning.
+for webpage styling, jQuery and Javascript for functioning.`
 
 ## Complete setup/installation instructions:
 
-[link](https://github.com/smita-raj12/program)   
+* [link](https://github.com/smita-raj12/program) to my project
 
-Clone this repository to your desktop.
+* Clone this repository to your desktop.
 
-Navigate to the directory.
+* Navigate to the directory.
 
-Open program/index.html.
+* Open program/index.html.
 
 ## Known bugs
 
-After reviewing course details user has to select 
+`After reviewing course details user has to select 
 some question option, depending on their thoughts
 application has to suggest one Programming language
-that DropdownList will be fixed as part of the next commit.     
+that DropdownList will be fixed as part of the next commit.`     
 
 ## cense information with a copyright and date:
 
@@ -51,4 +51,4 @@ that DropdownList will be fixed as part of the next commit.     
 
 ## Contact information:
    
-   *EmailId:smita.raj12@gmail.com
+* EmailId:smita.raj12@gmail.com
