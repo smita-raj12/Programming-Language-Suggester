@@ -47,7 +47,7 @@ that DropdownList will be fixed as part of the next commit.     
 
 ## cense information with a copyright and date:
 
- [MIT](https://choosealicense.com/)
+ [MIT](https://opensource.org/licenses/MIT)
 
 ## Contact information:
    
