@@ -20,7 +20,7 @@ HTML and CSS.
 
 jQuery and Javascript.
 
-Bootstrap class to design pages.
+Bootstrap.
     
 ## Longer description of the project as needed:
 
