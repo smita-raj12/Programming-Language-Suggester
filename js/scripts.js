@@ -6,7 +6,7 @@ $(document).ready(function() {
     const ageInput = parseInt($("#Age").val());
     const operator = $("input:radio[name=operator]:checked").val();
    
-    if(nameInput > ' ' && qulInput > ' ' && ageInput >= 15){
+    if(nameInput !== ' ' && qulInput !== ' ' && ageInput >= 15){
       if (operator === "hot") {
         $("#python").show()
       }else if (operator === "less") {

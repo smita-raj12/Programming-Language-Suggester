@@ -1,12 +1,12 @@
-**Application Name:**
+##Application Name:
 
    _Program_
 
-**Name of contributors:**
+##Name of contributors:
 
    _Smita_   
 
-**Brief description of the project:**
+##Brief description of the project:
   
     * This project contains Programming Language suggestion.
 
@@ -16,7 +16,7 @@
 
     
 
-**Technologies used:**
+##Technologies used:
 
     * Text Editor: visual stodio.
 
@@ -26,15 +26,15 @@
 
     * Bootstrap class to disign pages.
     
-**Longer description of the project as needed:**
+##Longer description of the project as needed:
 
     This application allows users to select programming language 
     based on their requirements. Here we worked on BootsTrap class
     for webpage styling, jQuery and Javascript for functioning.
 
-**Complete setup/installation instructions:**
+##Complete setup/installation instructions:
 
-    * visual studio:[click](https://code.visualstudio.com)
+    * visual studio: [click](https://code.visualstudio.com)
       download and setup.
 
     * [link](https://github.com/smita-raj12/program)   
@@ -46,17 +46,17 @@
     * Open program/index.html.
 
 
-**Known bugs**
+##Known bugs
 
    After reviewing course details user has to select 
    some question option, depending on their thoughts
    application has to suggest one Programming language
    that DropdownList function is not working.     
 
-**License information with a copyright and date:**
+##License information with a copyright:
 
     [MIT](https://choosealicense.com/)
 
-**Contact information:**
+##Contact information:
    
    *EmailId:smita.raj12@gmail.com
