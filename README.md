@@ -1,6 +1,6 @@
 ## Application Name:
 
-Program
+Programming Language Suggester
 
 ## Name of contributors:
 
@@ -30,7 +30,7 @@ for webpage styling, jQuery and Javascript for functioning.`
 
 ## Complete setup/installation instructions:
 
-* [Live site](https://smita-raj12.github.io/program) to my project
+* [Live site](https://smita-raj12.github.io/Programming-Language-Suggester) to my project
 
 * Clone this repository to your desktop.
 
