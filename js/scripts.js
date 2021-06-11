@@ -24,13 +24,18 @@ $(document).ready(function() {
       event.preventDefault();
   });
 });
+
+$(document).ready(function() {
 $("#check").submit(function(event) {
   $("#check").hide();
     const Iname = $("#uname").val()
-    const veryhot = $("select#vhot").val();
-    if(veryhot === 'vhot' && Iname === 'uname' ){
-      $("#vhotmsg").show()
+    const veryhot = $("#market").val();
+    console.log('veryhot',veryhot);
+    console.log('Iname',Iname)
+    if(veryhot === "1" && Iname !== ' ' ){
+      console.log("test1")
+      $("#veryhotmsg").show()
   }
 });
-
+});
 
