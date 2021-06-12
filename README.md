@@ -2,7 +2,7 @@
 
 Programming Language Suggester
 
-## Name of contributors:
+## Name of contributor:
 
 Smita   
 
