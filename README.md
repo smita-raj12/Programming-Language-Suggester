@@ -12,7 +12,7 @@ Smita
 
 2. It contains a brief description of programming languages.
 
-3. Users can choose their language.
+3. Users can choose their language based on their requirements.
 
 ## Technologies used:
 
@@ -26,7 +26,7 @@ Smita
 
 `This application allows users to select a programming language 
 based on their requirements. Here we worked on BootsTrap class
-for webpage styling, jQuery and Javascript for functioning.`
+for webpage styling, jQuery and javascript libraries.`
 
 ## Complete setup/installation instructions:
 
@@ -43,10 +43,7 @@ for webpage styling, jQuery and Javascript for functioning.`
 
 ## Known bugs
 
-`After reviewing course details user has to select 
-some question option, depending on their thoughts
-application has to suggest one Programming language
-that DropdownList will be fixed as part of the next commit.`     
+`None.`     
 
 ## cense information with a copyright and date:
 

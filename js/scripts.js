@@ -25,17 +25,3 @@ $(document).ready(function() {
   });
 });
 
-$(document).ready(function() {
-$("#check").submit(function(event) {
-  $("#check").hide();
-    const Iname = $("#uname").val()
-    const veryhot = $("#market").val();
-    console.log('veryhot',veryhot);
-    console.log('Iname',Iname)
-    if(veryhot === "1" && Iname !== ' ' ){
-      console.log("test1")
-      $("#veryhotmsg").show()
-  }
-});
-});
-
