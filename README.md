@@ -2,9 +2,9 @@
 
 Programming Language Suggester
 
-## Name of contributors:
+## Name of contributor:
 
-Smita   
+Smita   
 
 ## Brief description of the project:
 
@@ -21,7 +21,7 @@ Smita
 2. jQuery and Javascript.
 
 3. Bootstrap.
-    
+    
 ## Longer description of the project as needed:
 
 `This application allows users to select a programming language 
@@ -50,8 +50,8 @@ that DropdownList will be fixed as part of the next commit.`     
 
 ## cense information with a copyright and date:
 
- [MIT](https://opensource.org/licenses/MIT)
+ [MIT](https://opensource.org/licenses/MIT)
 
 ## Contact information:
-   
+   
 * EmailId:smita.raj12@gmail.com
