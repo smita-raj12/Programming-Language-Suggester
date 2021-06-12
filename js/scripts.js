@@ -25,21 +25,3 @@ $(document).ready(function() {
   });
 });
 
-$(document).ready(function() {
-$("#check").submit(function(event) {
-  //$("#pform").hide();
- // $("#check").hide()
- // $("#JavaScript").show()
- $("#vhotmsg").show()
-    const Iname = $("#uname").val()
-    const veryhot = $("#market").val();
-    console.log('veryhot',veryhot,Iname)
-    if(veryhot === '1' && Iname !== ' ' ){
-        console.log("test1")
-        
-        $("#vhotmsg").show()
-    
-  }
-});
-});
-
